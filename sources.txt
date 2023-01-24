@@ -1,0 +1,8 @@
+./src/modele/Test.java
+./src/modele/ModeleTaquin.java
+./src/vue/ModeleGUI.java
+./src/vue/VueModel.java
+./src/controle/Scan.java
+./src/controle/ModeleEcoutable.java
+./src/controle/AbstractModeleEcouteur.java
+./src/controle/EcouteurModele.java
